@@ -1,4 +1,4 @@
-Open Sause Tshirt project
+Open Sauce Tshirt project
 ===
 
 ![t-shirt](./t-shirt-image.png)
